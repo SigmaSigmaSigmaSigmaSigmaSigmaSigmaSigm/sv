@@ -16,7 +16,7 @@ python manage.py runserver
 
 ## Endpoints
 ### Hello
-- / - hello from the first App
+- / - h
 - fancy-hello/ - better hello (with header)
 - \<str:name\>/ - personal greeting
 
